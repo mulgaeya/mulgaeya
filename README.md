@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mulgaeya
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Programming Languages
-- 📫 How to reach me ... Secret
+Beginner pls nono fight me
+
+STAN LOONA
 
 <!---
 mulgaeya/mulgaeya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
